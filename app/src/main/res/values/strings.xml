@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstJavaAndriodApp</string>
+    <string name="button_name">My Button</string>
+    <string name="textView_name">My Text</string>
+    <string name="AppTitle_name">My App Title</string>
+    <string name="button_on_click_name">Button Clicked</string>
+    <string name="hint_name">Enter Your Name</string>
+
+</resources>
